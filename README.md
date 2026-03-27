@@ -1,12 +1,22 @@
-# 🚀 AI Resume Screening System
-
-![App Screenshot](Screenshot.png)
-
----
+<p align="center">
+  <img src="Screenshot.png" width="800"/>
+</p>
 
 ## 🎥 Demo
 
-![Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="800"/>
+</p>
+
+<h1 align="center">🚀 AI Resume Screening System</h1>
+<p align="center">AI-powered resume analysis and candidate screening system</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue"/>
+  <img src="https://img.shields.io/badge/ML-NLP-green"/>
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success"/>
+</p>
 
 ## 📌 Problem Statement
 
