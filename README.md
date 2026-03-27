@@ -4,9 +4,9 @@
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo
 
-[Click here to watch demo](demo.mp4)
+![Demo](demo.gif)
 
 ## 📌 Problem Statement
 
